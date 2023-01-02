@@ -6,4 +6,6 @@
 
 # musage [![CI](https://github.com/mihaigalos/musage/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/mihaigalos/musage/actions/workflows/ci.yaml) [![CD](https://github.com/mihaigalos/musage/actions/workflows/cd.yaml/badge.svg)](https://github.com/mihaigalos/musage/actions/workflows/cd.yaml) [![Security Audit](https://github.com/mihaigalos/musage/actions/workflows/audit.yaml/badge.svg)](https://github.com/mihaigalos/musage/actions/workflows/audit.yaml) [![crates.io](https://img.shields.io/crates/d/musage.svg)](https://crates.io/crates/musage) [![LoC](https://tokei.rs/b1/github/mihaigalos/musage)](https://github.com/mihaigalos/musage)
 
+# pipeview [![CI](https://github.com/mihaigalos/pipeview/actions/workflows/ci.yaml/badge.svg)](https://github.com/mihaigalos/pipeview/actions/workflows/ci.yaml) [![crates.io](https://img.shields.io/crates/d/pipeview.svg)](https://crates.io/crates/pipeview)
+
 # skim-navi [![CD-auto](https://github.com/mihaigalos/skim-navi/actions/workflows/cd-auto.yaml/badge.svg)](https://github.com/mihaigalos/skim-navi/actions/workflows/cd-auto.yaml) [![crates.io](https://img.shields.io/crates/d/skim-navi.svg)](https://crates.io/crates/skim-navi) [![LoC](https://tokei.rs/b1/github/mihaigalos/skim-navi)](https://github.com/mihaigalos/skim-navi)
