@@ -2,6 +2,8 @@
 
 # autoclap [![CD-auto](https://github.com/mihaigalos/autoclap/actions/workflows/cd-auto.yaml/badge.svg)](https://github.com/mihaigalos/autoclap/actions/workflows/cd-auto.yaml)
 
+# caster [![CI](https://github.com/mihaigalos/caster/actions/workflows/ci.yaml/badge.svg)](https://github.com/mihaigalos/caster/actions/workflows/ci.yaml)
+
 # dusage [![CI](https://github.com/mihaigalos/dusage/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/mihaigalos/dusage/actions/workflows/ci.yaml) [![CD](https://github.com/mihaigalos/dusage/actions/workflows/cd.yaml/badge.svg)](https://github.com/mihaigalos/dusage/actions/workflows/cd.yaml) [![Security Audit](https://github.com/mihaigalos/dusage/actions/workflows/audit.yaml/badge.svg)](https://github.com/mihaigalos/dusage/actions/workflows/audit.yaml) [![crates.io](https://img.shields.io/crates/d/dusage.svg)](https://crates.io/crates/dusage) [![LoC](https://tokei.rs/b1/github/mihaigalos/dusage)](https://github.com/mihaigalos/dusage)
 
 # miniboot [![CI](https://github.com/mihaigalos/miniboot/actions/workflows/main.yml/badge.svg)](https://github.com/mihaigalos/miniboot/actions/workflows/main.yml) [![license](https://img.shields.io/badge/license-GPLv3-brightgreen.svg)](LICENSE) [![LoC](https://tokei.rs/b1/github/mihaigalos/miniboot)](https://github.com/Aaronepower/tokei)
